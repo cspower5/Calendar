@@ -15,6 +15,6 @@ A daily planner that shows the current day, the time of the day from 9am to 5pm 
 
 
 github link to the final version of code.
-This site was built using [GitHub Pages](https://github.com/cspower5/Calendar).
+This site was built using [GitHub Pages](https://cspower5.github.io/Calendar/).
 
 ![Screen Shot of christopher portfolio](./Screen Shot 2022-04-09 at 1.13.38 PM.png)
