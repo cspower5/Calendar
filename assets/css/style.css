@@ -69,14 +69,3 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
-#event-rows div {
-  /* background-color: darkgray; */
-  height: 50%;
-  text-align: center;
-  padding-top: .5em;
-  
-}
-img {
-  width: 20px;
-  align-self:center;
-}
